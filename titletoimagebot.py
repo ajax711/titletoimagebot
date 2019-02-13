@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""meh"""
+"""gay"""
 
 __version__ = '0.7.1'
 __author__ = 'gerenook'

@@ -1,3 +1,3 @@
 # titletoimagebot
 
-Currently in maintenance, no active development. Pull requests are welcome.
+Lets hope I revive this 
